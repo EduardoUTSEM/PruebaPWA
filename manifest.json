@@ -1,0 +1,17 @@
+{
+    "name": "Aplicacion web progresiva",
+    "short_name": "PWA",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./log.PNG",
+            "type": "image/PNG",
+            "sizes": "512x512"
+        }
+    ]
+}
