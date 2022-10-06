@@ -10,7 +10,7 @@
     "icons": [
         {
             "src": "./cursos.png",
-            "type": "image/PNG",
+            "type": "image/png",
             "sizes": "512x512"
         }
     ]
